@@ -1,0 +1,23 @@
+{
+  "name": "jihoon-test",
+  "version": "1.0.0",
+  "description": "npm public test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihoon6372/npm-public-test.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jihoon6372/npm-public-test/issues"
+  },
+  "homepage": "https://github.com/jihoon6372/npm-public-test#readme"
+}
